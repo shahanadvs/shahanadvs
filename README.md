@@ -34,7 +34,7 @@
 <br />
 <br />
 
-# <img src="https://strucklightning.files.wordpress.com/2019/06/developer.png" width="50" top="10draggable="false" > About me
+# <img src="https://strucklightning.files.wordpress.com/2019/06/developer.png" width="50" top="10" draggable="false" > About me
 
 - <img src="https://avatars1.githubusercontent.com/u/69089538?s=200&v=4" width="25" draggable="false"> CEO & Co-founder <a href="http://www.orionflare.com/"> OrionFLare </a>
 
