@@ -9,22 +9,22 @@
 
 <br/>
 <a href="https://twitter.com/shahanad_vs">
-  <img align="left" alt="Shahanad | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
+  <img align="left" alt="Shahanad | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" draggable="false" />
 </a>
 <a href="https://www.linkedin.com/in/shahanadvs/">
-  <img align="left" alt="Shan's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+  <img align="left" alt="Shan's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" />
 </a>
 <a href="https://www.facebook.com/shahanadv">
-  <img align="left" alt="Shan's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" draggable="false" />
+  <img align="left" alt="Shan's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
 <a href="https://www.instagram.com/shahanad_vs/">
-  <img align="left" alt="Shan's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" draggable="false" />
+  <img align="left" alt="Shan's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" />
 </a>
 <a href="https://github.com/shahanadvs">
-  <img align="left" alt="Shan's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+  <img align="left" alt="Shan's github" width="30px" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png" draggable="false" />
 </a>
 <a href="shahanadvs@gmail.com">
-  <img align="left" alt="Shan's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+  <img align="left" alt="Shan's gmail" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png" draggable="false" />
 </a>
 
 
@@ -35,8 +35,6 @@
 <br />
 
 # 👱 About me
-
-- <img src="https://github.com/shahanadvs/shahanadvs/blob/master/logosss.jpg" width="25" draggable="false"> CEO & Co-founder @ <a href="http://www.orionflare.com/"> OrionFLare </a>
 
 - <img src="https://github.com/shahanadvs/shahanadvs/blob/master/1416661505logo123.jpg" width="25" draggable="false"> BTech Computer Science & Engineering Student @ <a href="http://mesce.ac.in">MES CE</a>
 
@@ -54,7 +52,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
